@@ -3,7 +3,7 @@
 <h2>Introduction</h2>
 <p>The industrial talk 3 which was given by Dr Seah Choon Sean was held on 14th January 2024. It was held from 2.30pm to 3.30pm. It was about unleashing the power of emerging technologies for business growth in urban farming solution (I-Farm).</p>
 
-<p>Newsletter in pdf file: </p>
+<h2>Newsletter in pdf file: </h2>
 <a href="https://github.com/chuahhw/assignment4/files/14053672/Section.5.Group.4.Assignment.4.pdf">Newsletter</a>
 
 <h2>Reflections</h2>
